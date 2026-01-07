@@ -1,0 +1,37 @@
+@import "tailwindcss";
+@font-face {
+    font-family: one;
+    src: url(/public/68805858e095a766b86eb9f6_SuisseIntl-SemiBold-WebM.ttf);
+}
+@font-face {
+    font-family: two;
+    src: url(/public/6882e67a90d89df1a9887176_SuisseIntl-Medium-WebM.ttf);
+}
+
+@font-face {
+    font-family: three;
+    src: url(/public/6892c333bf67b1d5eafe58a0_Obviously-CondensedBlack.ttf);
+}
+
+
+
+.nav{
+    font-family: three;
+}
+.nav2{
+    font-family: one;
+}
+
+.nav3{
+    font-family: one;
+}
+
+.head{
+    font-family: three;
+}
+
+.para{
+font-family: two;
+}
+
+
