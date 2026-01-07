@@ -103,49 +103,6 @@ mammoth-murals/
 │  └─ styles/
 │     └─ tailwind.css         # Global styles & custom layer directives
 └─ package.json               # Dependencies & scripts
-🚀 Getting Started
-1. Clone the repository
-Bash
-
-git clone [https://github.com/your-username/mammoth-murals.git](https://github.com/your-username/mammoth-murals.git)
-cd mammoth-murals
-2. Install Dependencies
-Bash
-
-npm install
-3. Launch Development Server
-Bash
-
-npm run dev
-🎨 Design Tokens
-The site uses a custom configuration to match the Mammoth Murals brand:
-
-Background: #FFF6E5 (Vintage Cream)
-
-Typography: #120011 (Ink Black)
-
-Action: High-contrast CTAs for discovery calls.
-
-🏆 Credits & Recognition
-Agency: Mammoth Murals
-
-Design Inspiration: Award-winning boutique agency layouts.
-## 📂 Project Anatomy
-
-```text
-mammoth-murals/
-├─ src/
-│  ├─ components/
-│  │  ├─ Navbar.jsx           # Sticky glassmorphism navigation
-│  │  ├─ Herosection.jsx      # High-impact typography & video hero
-│  │  ├─ CraftedSection.jsx   # Grid-based project showcases
-│  │  ├─ ProcessSection.jsx   # Step-by-step agency workflow
-│  │  ├─ GoogleReview.jsx     # Dynamic review & rating component
-│  │  └─ Services.jsx        # Service categorization logic
-│  ├─ App.jsx                 # Routing and Locomotive Scroll init
-│  ├─ index.jsx               # App entry point
-│  └─ styles/
-│     └─ tailwind.css         # Global styles & custom layer directives
-└─ package.json               # Dependencies & scripts
+encies & scripts
 
 
