@@ -1,12 +1,57 @@
-# React + Vite
+# 🦣 Mammoth Murals | React + Tailwind Agency Experience
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-Currently, two official plugins are available:
+> **"Turning walls into stories."** > A high-performance, visually immersive digital portfolio for Mammoth Murals, Birmingham’s premier agency for hand-painted signs and large-scale murals.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔗 Live Demo
+**View the Site:** [mammothmurals-agency.netlify.app](https://mammothmurals-agency.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 💎 The Experience
+This project is a masterclass in modern frontend architecture. It bridges the gap between **physical craftsmanship** and **digital precision**, using React and Tailwind CSS to create a boutique agency feel.
+
+### 🌟 Key Features
+* **⚡ High-Performance Transitions:** Seamless navigation via **React Router** optimized for zero-latency feel.
+* **🖼️ Curated Portfolio:** Dynamic galleries categorized by Murals, Signs, and Ghost Signs.
+* **🏗️ Component-Driven Architecture:** Built with Atomic Design principles for maximum reusability.
+* **✨ Immersive UI:** Bold, oversized typography and high-definition media integration.
+* **⭐ Social Proof Engine:** Custom-built Google Review components with Lucide-icon star ratings.
+* **🎨 Artisan Design System:** A custom palette featuring "Vintage Cream" and "Deep Charcoal" to mirror physical paint textures.
+
+---
+
+## 🛠️ Technical Powerhouse
+
+| Layer | Technology | Purpose |
+| :--- | :--- | :--- |
+| **Frontend** | **React.js** | Component-based UI logic. |
+| **Styling** | **Tailwind CSS** | Utility-first, responsive design system. |
+| **Icons** | **Lucide React** | Lightweight, accessible vector iconography. |
+| **Scrolling** | **Locomotive Scroll** | Implementation of luxury, smooth-scroll physics. |
+| **Routing** | **React Router** | Client-side page handling and deep-linking. |
+
+---
+
+## 📂 Project Anatomy
+
+```text
+mammoth-murals/
+├─ src/
+│  ├─ components/
+│  │  ├─ Navbar.jsx           # Sticky glassmorphism navigation
+│  │  ├─ Herosection.jsx      # High-impact typography & video hero
+│  │  ├─ CraftedSection.jsx   # Grid-based project showcases
+│  │  ├─ ProcessSection.jsx   # Step-by-step agency workflow
+│  │  ├─ GoogleReview.jsx     # Dynamic review & rating component
+│  │  └─ Services.jsx        # Service categorization logic
+│  ├─ App.jsx                 # Routing and Locomotive Scroll init
+│  ├─ index.jsx               # App entry point
+│  └─ styles/
+│     └─ tailwind.css         # Global styles & custom layer directives
+└─ package.json               # Dependencies & scripts
