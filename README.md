@@ -37,7 +37,19 @@ This project is a masterclass in modern frontend architecture. It bridges the ga
 | **Routing** | **React Router** | Client-side page handling and deep-linking. |
 
 ---
+🎨 Design Tokens
+The site uses a custom configuration to match the Mammoth Murals brand:
 
+Background: #FFF6E5 (Vintage Cream)
+
+Typography: #120011 (Ink Black)
+
+Action: High-contrast CTAs for discovery calls.
+
+🏆 Credits & Recognition
+Agency: Mammoth Murals
+
+Design Inspiration: Award-winning boutique agency layouts.
 
 ## 📂 Project Anatomy
 
